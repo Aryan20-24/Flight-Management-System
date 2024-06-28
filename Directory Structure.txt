@@ -1,0 +1,14 @@
+
+FlightBookingSystem/
+├── include/
+│   ├── Management.h
+│   ├── Details.h
+│   ├── Registration.h
+│   └── Ticket.h
+├── src/
+│   ├── Management.cpp
+│   ├── Details.cpp
+│   ├── Registration.cpp
+│   └── Ticket.cpp
+└── main/
+    └── main.cpp
